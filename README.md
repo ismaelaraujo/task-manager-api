@@ -1,13 +1,7 @@
-# taskmanager-api
-API Rest de um gerenciador de tarefas
+# Task Manager Api Spring boot
 
 ### Instruções de uso :
-- Clonar o projeto;
-- Importar como um maven project;
-- Setar as informações do banco de dados no *application.properties:
-  - Esse projeto foi feito utilizando o mysql;
-- Selecionar a class *TaskmanagerApplication* e executa-la como *Java Applcation*;
-
-### Observações :
-
-##### Esse projeto usa [Lombok](https://projectlombok.org/) para gerar automaticamente código repetitivos como gets e sets;
+- Importar como exist maven project;
+- Arquivo de configuração do banco de dados no arquivo *application.properties:
+- Utilizando banco de dados mysql;
+- Classe principal para execução *TaskmanagerApplication* executar como *Java Applcation*
